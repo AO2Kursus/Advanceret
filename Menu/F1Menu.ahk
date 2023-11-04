@@ -3,7 +3,6 @@
 SetTitleMatchMode 2
 CoordMode "Tooltip"
 
-F1MenuInit()
 
 +F4::ExitApp
 
