@@ -9,3 +9,5 @@
 ## GUI
 
 ## Ternary Operator
+
+## Try Catch
